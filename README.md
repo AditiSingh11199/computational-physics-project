@@ -1,2 +1,2 @@
 # quantum-mechanics-visualiser
-A simple visualisation of an infinite square well 
+Numerical solution of the 1D Schrödinger equation for arbitrary potentials
