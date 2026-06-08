@@ -1,11 +1,13 @@
 # Quantum Mechanics Visualiser
-Numerical solution of the 1D Schrödinger equation for arbitrary potentials
+A Python project exploring analytical and numerical solutions of the one-dimensional Schrödinger equation.
 
-Overview:
-This project provides analytical and numerical visualisations of quantum mechanical systems in one dimension. It focuses on solving and exploring the time-independent Schrödinger equation for simple potentials, with an emphasis on building physical intuition through computation.
+# Overview:
+This project began as a visualisation of the infinite square well and is being expanded into a computational physics toolkit for studying quantum systems.
 
-The current implementation includes:
+The aim is to develop numerical and analytical methods used in undergraduate quantum mechanics while building experience with scientific computing in Python.
 
--
+Current features:
+
+- Infinite Square Well: probability density visualisation, energy level calculations, 
 -
 - 
